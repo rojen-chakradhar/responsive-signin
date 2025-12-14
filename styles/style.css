@@ -17,7 +17,7 @@ html,
 body {
 	height: 100%;
 	width: 100%;
-  background-color: var(--background-color);
+	background-color: var(--background-color);
 }
 
 :root {
@@ -139,4 +139,27 @@ input:focus {
 
 .forgot-password:hover {
 	text-decoration: underline;
+}
+
+@media (max-width: 500px) {
+	.container {
+		width: 100%;
+		min-height: 100vh;
+		border-radius: 0;
+		box-shadow: none;
+		padding: 1.5rem;
+	}
+
+	h2 {
+		font-size: 1.5rem;
+	}
+
+	.toggle-btn {
+		font-size: 1rem;
+	}
+
+	.submit-btn {
+		padding: 0.75rem;
+		font-size: 1rem;
+	}
 }
