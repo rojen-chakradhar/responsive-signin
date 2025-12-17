@@ -10,6 +10,11 @@ Hey there! This is a responsive signin/signup website. A site where we can login
 - Fully responsive layout for all devices
 - Clean, modern design with focus on visuals and UX
 
+## 🛠 Intructions
+- Open the github repo.
+- clone the repo.
+- run the index.html file
+
 ## 🔗 Live Demo
 👉 [https://rojen-portfolio.netlify.app](https://rojen-chakradhar.github.io/responsive-signin/)
 
