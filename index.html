@@ -23,7 +23,7 @@
 						<label for="signin-password">Password</label>
 						<input type="password" id="signin-password" name="password" required />
 					</div>
-					<button type="submit" class="submit-btn">Sign In</button>
+					<button type="submit" class="submit-btn" onclick="alert('form submitted')">Sign In</button>
 				</form>
 				<a href="#" class="forgot-password">Forgot Password?</a>
 			</section>
@@ -42,10 +42,12 @@
 						<label for="signup-password">Password</label>
 						<input type="password" id="signup-password" name="password" required />
 					</div>
-					<button type="submit" class="submit-btn">Sign Up</button>
+					<button type="submit" class="submit-btn" onclick="alert('form submitted')">Sign Up</button>
 				</form>
 			</section>
 		</main>
 	</body>
-  <script src="./scripts/script.js"></script>
+	<script>
+		alert('This is just a frontend project so the buttons dont lead to somewhere and your informations dont get save anywhere.');
+	</script>
 </html>

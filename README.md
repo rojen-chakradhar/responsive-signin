@@ -2,6 +2,8 @@
 
 Hey there! This is a responsive signin/signup website. A site where we can login or signup to enter a website or app to have our data.
 
+## IMP: THE BUTTONS ON THIS SITE DOESNOT WORK. THIS SITE IS JUST FRONTEND AND THIS IS JUST A DESIGN.
+
 ## 🚀 Tech Stack
 - **Frontend:** HTML, CSS, JavaScript
 
